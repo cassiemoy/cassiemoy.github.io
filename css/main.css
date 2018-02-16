@@ -3,7 +3,7 @@ html, body {
 }
 
 body {
-  font-size: 16px !important;
+  font-size: 16px;
   padding-top: 55px;
   display: flex;
   text-align: center;
@@ -17,8 +17,30 @@ main {
   max-width: 750px;
 }
 
+p {
+  margin: 1.5em 0;
+}
+
+ul {
+  margin: 1em 0;
+}
+
+li {
+  margin: 1em 0;
+}
+
 img {
   max-width: 100%;
+}
+
+blockquote {
+  font-size: 1em;
+  padding: 0 1em;
+  margin: 1em;
+}
+
+hr {
+  margin: 5em 0 0;
 }
 
 /*home page*/
