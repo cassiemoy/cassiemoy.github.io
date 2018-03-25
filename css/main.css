@@ -63,6 +63,11 @@ hr {
   margin: 5px;
 }
 
+@font-face {
+  font-family: "Clear Line";
+  src: url("../fonts/ClearLine.ttf");
+}
+
 #main {
   position: absolute;
   height: 100%;
@@ -75,9 +80,10 @@ hr {
 }
 
 #summary h1 {
-  font-family: var(--font), sans-serif;
-  font-weight: 900;
+  font-family: "Clear Line";
+  font-weight: 800;
   padding: .5em;
+  margin: 0 1em;
   font-size: 3em;
   text-align: center;
 }
@@ -86,7 +92,7 @@ hr {
   font-family: var(--font), serif;
   font-size: 16px;
   line-height: 2em;
-  padding: 2em;
+  padding: 0 2em;
 }
 
 .icons {
