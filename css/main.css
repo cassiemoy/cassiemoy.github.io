@@ -68,6 +68,11 @@ hr {
   src: url("../fonts/ClearLine.ttf");
 }
 
+
+#homepage-link {
+  margin: 2em 0 0;
+}
+
 #main {
   position: absolute;
   height: 100%;
