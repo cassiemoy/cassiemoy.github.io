@@ -6,10 +6,22 @@
     <description>Recent content on Cassie Moy</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 11 Feb 2018 22:40:57 -0500</lastBuildDate>
+    <lastBuildDate>Sat, 25 Aug 2018 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Circle with centered text in HTML and CSS</title>
+      <link>/posts/circle-with-centered-text/</link>
+      <pubDate>Sat, 25 Aug 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/posts/circle-with-centered-text/</guid>
+      <description>As we learned with the box model, browsers basically represent everything in boxes, or rectangles. Fortunately, you can think of a circle as a square with really rounded corners.
+We can make a square from a div by setting its height and width properties to the same value.
+Then, we need to set the border-radius property, which controls the roundness of an element&amp;rsquo;s corners.
+Lastly, we can use flexbox to help us center the text by setting the div&amp;rsquo;s display property to flex.</description>
+    </item>
     
     <item>
       <title>About this site</title>

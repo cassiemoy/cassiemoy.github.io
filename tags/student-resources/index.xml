@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Web Development on Cassie Moy</title>
-    <link>/tags/web-development/</link>
-    <description>Recent content in Web Development on Cassie Moy</description>
+    <title>Student Resources on Cassie Moy</title>
+    <link>/tags/student-resources/</link>
+    <description>Recent content in Student Resources on Cassie Moy</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Sat, 25 Aug 2018 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="/tags/web-development/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="/tags/student-resources/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
